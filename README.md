@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Nepali Calendar
 - 📫 You can reach up to me with social links 
 
-[Instagram][https://instagram.com/mentormaya]
-[Portfolio][https://ajaysingh.com.np/]
-[Website][https://mentormaya.com/]
+[Instagram](<https://instagram.com/mentormaya>)
+[Portfolio](https://ajaysingh.com.np/>)
+[Website](<https://mentormaya.com/>)
 
 <!---
 mentormaya/mentormaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
