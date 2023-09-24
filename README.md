@@ -5,7 +5,6 @@
 - 📫 You can reach up to me with social links 
 
 [📱Instagram](<https://instagram.com/mentormaya>)
-[🔗Portfolio](<https://ajaysingh.com.np/>)
 [🕸️Website](<https://ajaysingh.com.np/>)
 
 
