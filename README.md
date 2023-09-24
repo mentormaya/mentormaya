@@ -6,7 +6,7 @@
 
 [📱Instagram](<https://instagram.com/mentormaya>)
 [🔗Portfolio](<https://ajaysingh.com.np/>)
-[🕸️Website](<https://mentormaya.com/>)
+[🕸️Website](<https://ajaysingh.com.np/>)
 
 
 Have a nice Day 🥰🥰
